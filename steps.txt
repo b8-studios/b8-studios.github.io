@@ -1,0 +1,5 @@
+1. Shift + right click
+2. Open command window here
+3. git add ./
+4. git commit -m "YOUR MESSAGE PLACEHOLDER"
+5. git push origin master
